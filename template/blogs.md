@@ -1,0 +1,46 @@
+---
+title: "<blog's_topic>"
+subtitle: "<blog's_subtitle>"
+summary: "<blog's_summary>"
+authors: <authors'_list> # [auth1, auth2]
+tags: <tags'_list> # [tag1, tag2]
+categories: <categories'_list> # [cat1, cat2]
+date: "<blogging_date_YYYY-MM-DD>" # appended with 'T00:00:00Z' eg. "2022-07-21T00:00:00Z"
+featured: true # can play with this
+draft: false # can play with this
+
+# Featured image
+# # To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 1
+  caption: ''
+  focal_point: ""
+  preview_only: false
+
+# Custom links (optional).
+# Uncomment and edit lines below to show custom links.
+links:
+- name: jijeevisha_org
+  url: <twitter_link_goes_here> # else keep the default
+  icon_pack: fab
+  icon: twitter
+
+- name: jijeevisha_org
+  url: https://www.instagram.com/jijeevisha_org/
+  icon_pack: fab
+  icon: instagram
+
+- name: Old Blogs
+  url: https://jijeevishaorg.wordpress.com/blog/
+  icon_pack: fab
+  icon: wordpress
+
+---
+
+<body_of_blog_or_post>  
+
+_- <footnote_(if_any)>_
+
+---  
