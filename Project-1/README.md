@@ -33,7 +33,7 @@ Majorly the work is divided in 3-stages as below:
 > 📌 **Refining the blog's content** and extracting necessary information  
 > 📌 Adding **image(s)** to our blog and uploading it to the website  
 
-Preferably, this complete work is to be done in `python` and `bash` scripts.  
+Preferably, this complete work is to be done in `python` and `bash` scripts. An initial level `python notebook` can be accessed [here](https://colab.research.google.com/github/jijeevisha-org/tech-front-info/blob/main/Project-1/blogGenerator.ipynb), which can be edited in the desired.  
 
 ---  
 
