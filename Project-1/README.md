@@ -1,4 +1,6 @@
-# **Automate the Blogging at Jijeevisha**
+# **Automate the Blogging at Jijeevisha**  
+
+![Project Header](../assets/img/featured.png)  
 
 ## **Intro**  
 
