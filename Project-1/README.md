@@ -8,7 +8,7 @@
 _(it can either be provided as user input or through some datafile)_  
 
 **Detail:**  
-We aim to create a `python` script to generate a [`markdown`](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf) file for the new blogs based on the user input. This `markdown` ([`index.md`](../template/blogs.md)) is automatically rendered into a web page from the backend code. The program is meant to ask questions based on the required fields for the blog and populate the template file.  
+We aim to create a `python` script to generate a [`markdown`](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf) file for the new blogs based on the user input. This `markdown` ([`index.md`](../jjv_template/blogs.txt)) is automatically rendered into a web page from the backend code. The program is meant to ask questions based on the required fields for the blog and populate the template file.  
 
 For every blog, there is a directory that is named after the _'title of blog'_, and holds the following file(s):  
 > 1. **`index.md`**: the original blogs' content  
