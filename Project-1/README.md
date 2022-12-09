@@ -37,6 +37,6 @@ Preferably, this complete work is to be done in `python` and `bash` scripts. An 
 
 ---  
 
-_🔗 Visit [https://jijeevishaorg.gitlab.io/](https://jijeevishaorg.gitlab.io/categories/) to know about Jijeevisha._  
+_🔗 Visit [https://jijeevishaorg.gitlab.io/](https://jijeevishaorg.ml/categories/) to know about Jijeevisha._  
 
 
