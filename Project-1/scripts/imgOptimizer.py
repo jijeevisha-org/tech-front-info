@@ -1,7 +1,7 @@
 import urllib.request as req
 from PIL import Image
 
-def putImg(imgPath = "featured.jpg", picNameDefault = "featured.jpg", reduceBy = 45):
+def optimize(imgPath = "featured.jpg", picNameDefault = "featured.jpg", reduceBy = 45):
   # if url is given
   if 'http://' in imgPath or 'https://' in imgPath:
     #imgURL = input("URL of banner image: ")
