@@ -10,6 +10,6 @@ def optimize(imgPath = "featured.jpg", picNameDefault = "featured.jpg", reduceBy
   # optimize
   currImg = Image.open(imgPath)
   # downsize the image with an ANTIALIAS filter (gives the highest quality)
-  currImg = currImg.resize(currImg.size,Image.ANTIALIAS)
+  currImg = currImg.resize((1280,800),Image.ANTIALIAS)
   currImg.save(picNameDefault, optimize=True, quality=reduceBy)
   return
