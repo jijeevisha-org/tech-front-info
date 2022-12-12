@@ -18,6 +18,8 @@ def optimize(imgPath = "featured.jpg", picNameDefault = "featured.jpg", reduceBy
   currImg = Image.open(imgPath) # it can be same as jpg_im
   #####################
   # downsize the image with an ANTIALIAS filter (gives the highest quality)
+  if (not sizeOriginal) and (input("Is it a magazine cover? (Y/N): ") in ['Y','y']):
+    sizeOriginal = True
   newSize = currImg.size if sizeOriginal else (1280,800)
   currImg = currImg.resize(newSize,Image.ANTIALIAS)
   currImg.save(picNameDefault, optimize=True, quality=reduceBy)

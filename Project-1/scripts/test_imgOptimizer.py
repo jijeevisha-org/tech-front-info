@@ -1,4 +1,4 @@
 from imgOptimizer import *
 
-fName = input("Image location: ")
-optimize(fName)
+fileName = input("Path to image: ")
+optimize(fileName)
